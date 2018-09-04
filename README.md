@@ -18,4 +18,4 @@ or
 
 Get alerted w/ stdout!
 
-<p align="center"><img align="center" width="600" alt="slackout-screenshot" src="https://i.imgur.com/p6Egqbq.png"></p>
+<p align="center"><img align="center" alt="slackout-screenshot" src="https://i.imgur.com/p6Egqbq.png"></p>
