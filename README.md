@@ -25,8 +25,9 @@ Save the .bat file locally and "Edit the System Environment Variables" by editin
 Now, simply run whatever command and pipe it to slackout, like
 `dir C: | slackout`
 
-You can specify the channel name or leave blank to default to the script variables.  Now you can get alerted w/ stdout!
+You can specify the channel name or leave blank to default to the script variables.  
 
-<p align="center"><img align="center" alt="slackout-winscreenshot" width="400" src="https://i.imgur.com/KRbSRCz.png"></p>
+<p align="center"><img align="center" alt="slackout-winscreenshot" width="500" src="https://i.imgur.com/KRbSRCz.png"></p>
 
 
+Now you can get alerted w/ stdout!
