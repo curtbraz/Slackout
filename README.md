@@ -32,4 +32,5 @@ You can specify the channel name or leave blank to default to the script variabl
 <p align="center"><img align="center" alt="slackout-winscreenshot" width="500" src="https://i.imgur.com/KRbSRCz.png">
 
 
-Now you can get alerted w/ stdout!</p>
+Even if you don't want the output and you just want to know when a task is finished running, you can add something like
+`& echo Volatility Scan Complete! | slackout #curtis` to the end of your command.  You can even schedule it so you can be alerted when your apps run!</p>
