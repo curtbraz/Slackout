@@ -13,5 +13,8 @@ else
 channel=$1
 fi
 
+# Echoes to Terminal
+echo $stdin
+
 # Makes Curl Request to API
 curl -s -F "content=$stdin" -F "channels=$channel" -F "title=Slack Stdout" -H "Authorization: Bearer $Slack_API" https://slack.com/api/files.upload > /dev/null
