@@ -17,7 +17,7 @@ or
 
 `cat slackout | slackout '#curtis_private'`.  
 
-<p align="center"><img align="center" alt="slackout-screenshot" src="https://i.imgur.com/p6Egqbq.png"></p>
+<p align="center"><img align="center" alt="slackout-linuxscreenshot" src="https://i.imgur.com/p6Egqbq.png"></p>
 
 ## Windows
 Save the .bat file locally and "Edit the System Environment Variables" by editing "PATH" and adding the folder with the batch program.
@@ -27,6 +27,6 @@ Now, simply run whatever command and pipe it to slackout, like
 
 You can specify the channel name or leave blank to default to the script variables.  Now you can get alerted w/ stdout!
 
-<p align="center"><img align="center" alt="slackout-screenshot" src="https://i.imgur.com/KRbSRCz.png"></p>
+<p align="center"><img align="center" alt="slackout-winscreenshot" width="600" src="https://i.imgur.com/KRbSRCz.png"></p>
 
 
