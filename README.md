@@ -27,6 +27,6 @@ Now, simply run whatever command and pipe it to slackout, like
 
 You can specify the channel name or leave blank to default to the script variables.  Now you can get alerted w/ stdout!
 
-<p align="center"><img align="center" alt="slackout-winscreenshot" width="600" src="https://i.imgur.com/KRbSRCz.png"></p>
+<p align="center"><img align="center" alt="slackout-winscreenshot" width="400" src="https://i.imgur.com/KRbSRCz.png"></p>
 
 
