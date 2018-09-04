@@ -6,7 +6,7 @@ When doing memory forensics I wished I had an easy way to be notified when volat
 
 # Use
 
-##Linux
+## Linux
 Simply clone locally, `chmod +x slackout`, optionally edit the varibles, and  create a symbolic link with something like 
 `sudo ln -s /home/curtbraz/slackout /bin`
 
@@ -17,7 +17,7 @@ or
 
 `cat slackout | slackout '#curtis_private'`.  
 
-##Windows
+## Windows
 Save the .bat file locally and "Edit the System Environment Variables" by editing "PATH" and adding the folder with the batch program.
 
 Now, simply run whatever command and pipe it to slackout, like
