@@ -8,6 +8,7 @@ When doing memory forensics I wished I had an easy way to be notified when volat
 
 ## Linux
 Simply clone locally, `chmod +x slackout`, optionally edit the varibles, and  create a symbolic link with something like
+
 `sudo ln -s /home/curtbraz/slackout /bin`
 
 Then, run whatever command you want and pipe it to slackout, like 
