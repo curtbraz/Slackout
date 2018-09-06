@@ -20,4 +20,4 @@ IF NOT "%~1" == "" (set channel=%1)
 echo !stdin!
 
 :: Makes Curl Request to API
-curl -s -F "content=!stdin!" -F "channels=%channel%" -F "title=Slack Stdout" -H "Authorization: Bearer %Slack_API%" https://slack.com/api/files.upload
+curl -s -o nul -F "content=!stdin!" -F "channels=%channel%" -F "title=Slack Stdout" -H "Authorization: Bearer %Slack_API%" https://slack.com/api/files.upload
