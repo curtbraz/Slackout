@@ -25,11 +25,11 @@ Save the .bat file locally and "Edit the System Environment Variables" by editin
 
 Now, simply run whatever command and pipe it to slackout, like
 
-`dir C: | slackout #curtis_private`
+`dir C:\Users\curtb | slackout #curtis_private`
 
 You can specify the channel name or leave blank to default to the script variables.  
 
-<p align="center"><img align="center" alt="slackout-winscreenshot" width="500" src="https://i.imgur.com/KRbSRCz.png">
+<p align="center"><img align="center" alt="slackout-winscreenshot" width="500" src="https://i.imgur.com/8F5jmoG.png">
 
 
 Even if you don't want the output and you just want to know when a task is finished running, you can add something like
