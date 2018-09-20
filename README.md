@@ -33,4 +33,4 @@ You can specify the channel name or leave blank to default to the script variabl
 
 
 Even if you don't want the output and you just want to know when a task is finished running, you can add something like
-`& echo Volatility Scan Complete! | slackout #curtis` to the end of your command.  You can even schedule it so you can be alerted when your apps start or complete! (with or without errors)</p>
+`& echo "Volatility Scan Complete!" | slackout #curtis` to the end of your command.  You can even schedule it so you can be alerted when your apps start or complete! (with or without errors)</p>
