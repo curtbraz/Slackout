@@ -16,9 +16,9 @@ Then, run whatever command you want and pipe it to slackout, like
 
 or 
 
-`cat slackout | slackout '#curtis_private'`.  
+`whois phishapi.com | '#curtis_private'`.  
 
-<p align="center"><img align="center" alt="slackout-linuxscreenshot" src="https://i.imgur.com/p6Egqbq.png"></p>
+<p align="center"><img align="center" alt="slackout-linuxscreenshot" src="https://i.imgur.com/RjTx8b1.png"></p>
 
 ## Windows
 Save the .bat file locally and "Edit the System Environment Variables" by editing "PATH" and adding the folder with the batch program.
